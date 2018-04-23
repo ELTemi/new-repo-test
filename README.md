@@ -4,4 +4,6 @@ Objectives
 
 Lets push some code to github
 
-I am definitely enjoying coding at this point. Hopefully i keep enjoying this
+I am definitely enjoying coding at this point. Hopefully i keep enjoying this.
+
+It just takes determination to become a developer
